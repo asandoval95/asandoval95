@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+* Currently working for [@MaM](https://www.mail-and-media.com/en/) as a Software Developer with focus on Kafka and Streaming Technologies.
+
+## Skills
+
+* Advanced Java Developer with a lot of experience using Spring projects
+* Docker, Kubernetes all the cloud stuff :)
+* Critical thinking, decision-making and problem solving skills
+* Linux lover
+* Some Python coding
+
 <!--
 **asandoval95/asandoval95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
