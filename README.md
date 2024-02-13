@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Currently working for [@MaM](https://www.mail-and-media.com/en/) as a Software Developer with focus on Kafka and Streaming Technologies.
+* Currently working for [@ti&m AG](https://www.ti8m.com/en/) as a Software eNGINEER with focus on Kafka and Streaming Technologies.
 
 ## Skills
 
@@ -9,6 +9,7 @@
 * Critical thinking, decision-making and problem solving skills
 * Linux lover
 * Some Python coding
+* Some Front end skills
 
 <!--
 **asandoval95/asandoval95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
