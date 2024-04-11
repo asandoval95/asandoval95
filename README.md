@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Currently working for [@ti&m AG](https://www.ti8m.com/en/) as a Software eNGINEER with focus on Kafka and Streaming Technologies.
+* Currently working for [@ti&m AG](https://www.ti8m.com/en/) as a Software Engineer with focus on Kafka and Streaming Technologies.
 
 ## Skills
 
